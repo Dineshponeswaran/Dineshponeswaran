@@ -18,8 +18,7 @@
 
 
 ---
-
-![DINESH PON ESWARAN github stats](https://github-readme-stats.vercel.app/api?username=Dineshponeswaran_border=true&theme=tokyonight)
+![DINESH PON ESWARAN github stats](https://github-readme-stats.vercel.app/api?username=Dineshponeswaran&show_icons=true&hide_border=true&theme=tokyonight)
 
 ---
 
