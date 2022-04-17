@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Hello, this is DINESH PON ESWARAN.I</h1>
 
-<!--
-**Dineshponeswaran/Dineshponeswaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### **About Myself:**
+ - 🚀 EEE student.
+ - 🙍🏽‍♂️ Currently looking for an Internship.
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Connect with me:**
+[<img align="left" alt="DINESH PON ESWARAN | LinkedIn" height="30px" src="https://img.icons8.com/doodle/2x/linkedin--v2.png" />][linkedin]
+[<img align="left" alt="DINESH PON ESWARAN | Whatsapp" height="30px" src="https://img.icons8.com/doodle/2x/whatsapp.png" />][whatsapp]
+[<img align="left" alt="DINESH PON ESWARAN | Gmail" height="30px" src="https://img.icons8.com/doodle/2x/gmail.png" />][gmail]
+<br />
+
+---
+
+
+
+
+---
+
+![DINESH PON ESWARAN github stats](https://github-readme-stats.vercel.app/api?username=Dineshponeswaran_border=true&theme=tokyonight)
+
+---
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Dineshponeswaran" alt="DINESH PON ESWARAN" /> </p>
+
+---
+
+[linkedin]: www.linkedin.com/in/dinesh-pon-eswaran-i-4366b8236
+[gmail]: mailto:dinesh11.4.2001@gmail.com
+[whatsapp]: https://wa.me/919498804469
