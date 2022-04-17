@@ -27,6 +27,6 @@
 
 ---
 
-[linkedin]: www.linkedin.com/in/dinesh-pon-eswaran-i-4366b8236
+[linkedin]: https://www.linkedin.com/in/dinesh-pon-eswaran-i-4366b8236/
 [gmail]: mailto:dinesh11.4.2001@gmail.com
 [whatsapp]: https://wa.me/919498804469
